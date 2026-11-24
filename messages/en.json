@@ -1,0 +1,399 @@
+{
+  "nav": {
+    "home": "Home",
+    "patients": "For Patients",
+    "nurses": "For Nurses",
+    "how": "How It Works",
+    "about": "About Masab",
+    "language": "Switch language"
+  },
+  "hero": {
+    "eyebrow": "HOME NURSING, IN TESTING",
+    "title1": "The nurse",
+    "title2": "comes",
+    "titleAccent": "to you.",
+    "lede": "Masab is testing a simpler way to arrange home nursing. When the app launches, patients and nurses will be able to manage the visit in one place, in Arabic or English.",
+    "cta": "App coming soon",
+    "explore": "Explore how it works",
+    "note": "The Masab app is in testing. Launch details will be shared here.",
+    "booking": "Booking updates",
+    "preview": "Preview · in testing",
+    "chat": "Private chat",
+    "planned": "Planned in-app messaging",
+    "caption": "Illustrative app preview · Sample interface data",
+    "bottom": "MADE FOR HOME NURSING",
+    "bottomNote": "Designed for patients and nurses"
+  },
+  "difference": {
+    "eyebrow": "A BETTER WAY TO ARRANGE CARE",
+    "title1": "Home care,",
+    "title2": "without the",
+    "titleAccent": "phone tag.",
+    "intro": "Finding care can mean calls, referrals and waiting for an answer. Masab is being designed to bring the details of a home nursing visit into one straightforward flow.",
+    "challenge": "THE CHALLENGE",
+    "challengeTitle": "Scattered and uncertain.",
+    "challenge1": "Call around to find an available nurse",
+    "challenge2": "Ask for rates one conversation at a time",
+    "challenge3": "Wait for updates about the visit",
+    "challenge4": "Keep track of completed visits yourself",
+    "approach": "THE MASAB APPROACH",
+    "approachTitle": "Clear from the start.",
+    "approach1": "Send a request to nurses offering that care",
+    "approach2": "Review the price before you confirm",
+    "approach3": "Get updates throughout the booking",
+    "approach4": "Close the visit with a completion code",
+    "stamp": [
+      "CARE",
+      "IN SYNC"
+    ]
+  },
+  "how": {
+    "eyebrow": "THE PLANNED BOOKING JOURNEY",
+    "title1": "Care, made",
+    "titleAccent": "simpler.",
+    "intro": "As the app moves through testing, this is the six-step visit flow being prepared for patients and nurses.",
+    "deadline": "Reply and payment windows are set for each booking. If a deadline passes, the request closes or the held slot is released."
+  },
+  "steps": [
+    {
+      "title": "Request",
+      "text": "Choose the service, time, duration and address."
+    },
+    {
+      "title": "Accept",
+      "text": "A matching nurse accepts or declines before the reply deadline."
+    },
+    {
+      "title": "Pay",
+      "text": "After acceptance, pay through the Masab wallet before its deadline."
+    },
+    {
+      "title": "On my way",
+      "text": "Your nurse lets you know when they set off."
+    },
+    {
+      "title": "Start",
+      "text": "Confirm the booking number together at the door."
+    },
+    {
+      "title": "Complete",
+      "text": "Share your completion code to close the visit."
+    }
+  ],
+  "patients": {
+    "eyebrow": "FOR PATIENTS & FAMILIES",
+    "title1": "Care at home,",
+    "title2": "on",
+    "titleAccent": "your terms.",
+    "intro": "When Masab launches, families will be able to choose the care they need, compare nurse profiles and follow a visit as it moves forward, all in one place.",
+    "features": [
+      "Choose a service, date, duration and address",
+      "See nurses who offer that care and are on shift",
+      "Compare profiles, experience, languages and rates",
+      "See the full price before sending your request",
+      "Pay from your wallet after a nurse accepts",
+      "Review requested, upcoming, ongoing and completed visits",
+      "Chat privately and get updates as the visit progresses"
+    ],
+    "walletTitle": "One wallet, clear history.",
+    "walletText": "Top up and review payments for each visit in the app.",
+    "link": "See the app experience",
+    "preview": "Patient app · design preview",
+    "sample": "Sample names and rates from the brochure"
+  },
+  "nurses": {
+    "eyebrow": "FOR NURSES",
+    "title1": "Your skills.",
+    "title2": "Your hours.",
+    "title3": "Your next step.",
+    "intro": "Masab is being tested as a place for nurses to present their experience, set up the services they offer and manage requests around their availability.",
+    "features": [
+      {
+        "title": "Build a professional profile",
+        "text": "Add license, education, experience, languages and references."
+      },
+      {
+        "title": "Choose how you work",
+        "text": "Set the services, rates and shifts you offer."
+      },
+      {
+        "title": "Review complete requests",
+        "text": "See service, hours, area and price before you decide."
+      },
+      {
+        "title": "Keep visits organized",
+        "text": "Use your schedule and wallet to follow bookings and earnings."
+      },
+      {
+        "title": "Travel with clarity",
+        "text": "Payment is confirmed before travel; chat stays in the app."
+      }
+    ],
+    "accountTitle": "One account, two roles.",
+    "accountText": "Nurses can also use the same account to book care for themselves.",
+    "cta": "Explore the Masab experience",
+    "preview": "Nurse app · design preview",
+    "sample": "Example request data from the brochure",
+    "orbit": "Built for the work you do"
+  },
+  "online": {
+    "eyebrow": "ON THE ROADMAP",
+    "title1": "Not every visit",
+    "title2": "needs a",
+    "titleAccent": "doorbell.",
+    "intro": "Online consultations are a proposed next step for care that can happen by video, helping patients connect with a nurse beyond their immediate area.",
+    "soon": "Online care · Coming soon",
+    "future": "Planned for a future release",
+    "services": [
+      "Post-discharge follow-ups",
+      "Wound checks",
+      "Medication reviews",
+      "Diabetes coaching"
+    ],
+    "detail": "The planned flow lets patients choose home or online care. Nurses can set a separate online rate, with video, chat and photos kept in the app.",
+    "call": "ONLINE CONSULTATION",
+    "video": "Video visit concept",
+    "badge": "Coming soon",
+    "sticker1": "Care,",
+    "sticker2": "connected.",
+    "callNurse": "Nora Al-Harbi",
+    "callRole": "Registered nurse ? wound care",
+    "callMessage": "Can you move the camera closer to the dressing?",
+    "you": "You",
+    "controls": [
+      "Mic",
+      "Cam",
+      "Chat",
+      "End"
+    ],
+    "home": "At home",
+    "online": "Online",
+    "question": "What do you need?",
+    "options": [
+      "Post-discharge follow-up",
+      "Wound check by video",
+      "Medication review",
+      "Diabetes coaching"
+    ],
+    "when": "When",
+    "time": "Today ? 18:30",
+    "length": "Length",
+    "duration": "30 min",
+    "address": "Address",
+    "noAddress": "Not needed",
+    "find": "Find online nurses",
+    "preview": "Preview of the planned online booking and video call",
+    "timer": "12:04"
+  },
+  "trust": {
+    "eyebrow": "TRUST IS PART OF THE VISIT",
+    "title1": "Safe at the door.",
+    "title2": "Clear on the",
+    "titleAccent": "screen.",
+    "intro": "A home visit is personal. These are the trust principles guiding Masab's design as the app moves through testing.",
+    "principles": [
+      {
+        "title": "Verified nurses",
+        "text": "Professional profiles include license, education, experience and references."
+      },
+      {
+        "title": "Two-way check",
+        "text": "Confirm the booking number at the door and share a code to finish the visit."
+      },
+      {
+        "title": "Private chat",
+        "text": "Keep communication inside the platform, with contact details protected."
+      },
+      {
+        "title": "Always informed",
+        "text": "Get notifications at key moments in the booking journey."
+      },
+      {
+        "title": "Arabic & English",
+        "text": "Move between languages, with right-to-left Arabic layouts supported."
+      },
+      {
+        "title": "Private by design",
+        "text": "People see their own bookings; visit photos stay with the patient and nurse involved."
+      }
+    ],
+    "adminEyebrow": "FOR THE MASAB TEAM",
+    "adminTitle": "One place to support every visit.",
+    "adminText": "Planned admin tools bring booking activity, system notifications, patient and nurse support chat, service rules, account review and appeals together.",
+    "roadmapEyebrow": "PLANNED FOR LATER",
+    "roadmapTitle": "More ways to stay connected.",
+    "roadmapText": "These features are part of the proposed roadmap and are not available yet.",
+    "roadmap": [
+      "Live map tracking",
+      "Ratings and reviews",
+      "Card payments",
+      "Care plans"
+    ]
+  },
+  "closing": {
+    "eyebrow": "CARE, A LITTLE CLOSER",
+    "title1": "Care that",
+    "title2": "comes",
+    "titleAccent": "to you.",
+    "lede": "Bringing trusted nursing care closer to home.",
+    "status": "The app is being tested. Download links will be shared at launch.",
+    "coming": "COMING SOON TO",
+    "play": "Google Play",
+    "appStore": "App Store",
+    "soon": "Coming soon",
+    "footnote": "Official app links will appear here when available."
+  },
+  "footer": {
+    "about": "Home nursing, brought into one thoughtful platform for patients and nurses.",
+    "explore": "Explore",
+    "forYou": "For you",
+    "how": "How it works",
+    "get": "Get the app",
+    "patients": "Patients & families",
+    "nurses": "Nurses",
+    "top": "Back to top",
+    "copyright": "© 2026 Masab. All rights reserved.",
+    "tagline": "Built around care, clarity and connection."
+  },
+  "phone": {
+    "tabs": {
+      "book": "Book",
+      "appointments": "Appts",
+      "home": "Home",
+      "chat": "Chat",
+      "profile": "Profile"
+    },
+    "dashboard": {
+      "greeting": "Welcome",
+      "name": "Sara Ahmed",
+      "locale": "عربي",
+      "active": "Active patient",
+      "ongoing": "Ongoing",
+      "upcoming": "Upcoming",
+      "wallet": "Wallet",
+      "booked": "BOOKED",
+      "wound": "Wound Care",
+      "nora": "Nora",
+      "woundDate": "Thu 23 Oct, 12:00",
+      "bookingCode": "#BK-20261023-68ED2",
+      "onWay": "ON MY WAY",
+      "elderly": "Elderly Care · 4 h",
+      "amal": "Amal · Today, 16:00",
+      "menu": "Quick menu",
+      "book": "Book",
+      "walletAction": "Wallet",
+      "chats": "Chats",
+      "alerts": "Alerts",
+      "ongoingCount": "1",
+      "upcomingCount": "2",
+      "walletTotal": "SAR 1,200",
+      "visitPrice": "SAR 200"
+    },
+    "tracking": {
+      "title": "Booking",
+      "onWay": "NURSE ON THE WAY",
+      "wound": "Wound Care · 2 h",
+      "nora": "Nora Al-Harbi · Thu 23 Oct, 12:00",
+      "requested": "Requested",
+      "requestSent": "You sent the request",
+      "accepted": "Accepted by Nora",
+      "slotHeld": "Slot held for you",
+      "paid": "Paid · SAR 200",
+      "wallet": "From your wallet",
+      "left": "On my way",
+      "leftAt": "Nora left 11:32",
+      "visitStarts": "Visit starts",
+      "door": "Nurse confirms booking no. at your door",
+      "completed": "Completed",
+      "codeHelp": "You share your completion code",
+      "codeTitle": "Your completion code",
+      "message": "Message Nora",
+      "bookingRef": "#BK-?68ED2",
+      "code": "4 8 2 7"
+    },
+    "patient": {
+      "title": "Available nurses",
+      "service": "Wound Care · Thu 23 Oct · 12:00 · 2 h",
+      "licensed": "LICENSED",
+      "profiles": [
+        {
+          "initial": "N",
+          "name": "Nora Al-Harbi",
+          "experience": "8 yrs · Arabic, English",
+          "rate": "SAR 100/h",
+          "services": "Wound care · Injections · IV"
+        },
+        {
+          "initial": "A",
+          "name": "Amal Qureshi",
+          "experience": "5 yrs · Urdu, Arabic, English",
+          "rate": "SAR 90/h",
+          "services": "Wound care · Injections · IV"
+        },
+        {
+          "initial": "R",
+          "name": "Reem Saleh",
+          "experience": "11 yrs · Arabic",
+          "rate": "SAR 120/h",
+          "services": "Wound care · Injections · IV"
+        },
+        {
+          "initial": "H",
+          "name": "Huda Khan",
+          "experience": "3 yrs · English, Urdu",
+          "rate": "SAR 80/h",
+          "services": "Wound care · Injections · IV"
+        }
+      ],
+      "allVisitsTitle": "All visits",
+      "visitTabs": [
+        "Requests",
+        "Ongoing",
+        "Upcoming",
+        "Completed",
+        "Cancelled"
+      ],
+      "visitTitle": "Upcoming home visit",
+      "visitState": "Confirmed ? details in one place",
+      "visitChat": "Message your nurse",
+      "visitDate": "23",
+      "visitMonth": "OCT",
+      "visitPrice": "SAR 200"
+    },
+    "nurse": {
+      "title": "Requests",
+      "subtitle": "New visits waiting for you",
+      "patient1": "Sara Ahmed",
+      "service1": "Wound Care · 2 h",
+      "time1": "Thu 23 Oct, 12:00 · Al Olaya, Riyadh",
+      "rate1": "SAR 200",
+      "deadline1": "ACCEPT WITHIN 3 H",
+      "patient2": "Mohammed Ali",
+      "service2": "Elderly Care · 6 h",
+      "time2": "Fri 24 Oct, 09:00 · Al Olaya, Riyadh",
+      "rate2": "SAR 540",
+      "deadline2": "ACCEPT WITHIN 9 H",
+      "accept": "Accept",
+      "decline": "Decline",
+      "week": "This week",
+      "visits": "6 visits",
+      "wallet": "Wallet",
+      "earnings": "SAR 1,840",
+      "initial1": "S",
+      "initial2": "M"
+    },
+    "nurseTabs": {
+      "home": "Home",
+      "requests": "Requests",
+      "schedule": "Schedule",
+      "chat": "Chat",
+      "profile": "Profile"
+    },
+    "statusTime": "9:41"
+  },
+  "a11y": {
+    "skip": "Skip to content"
+  },
+  "languageName": "English",
+  "direction": "ltr"
+}
